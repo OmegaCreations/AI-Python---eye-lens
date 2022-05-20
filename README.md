@@ -6,7 +6,7 @@ LinkedIn profile: [Click here!](https://www.linkedin.com/in/maksymilian-walicki/
 
 Programming language: **Python**
 
-Time spend on project (*so far*): **1h**
+Time spend on project (*so far*): **4h**
 
 
 **English translation at the bottom** 
